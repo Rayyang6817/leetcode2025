@@ -13,8 +13,8 @@
 #     print(result)  # ➜ 應該輸出 [0, 1]
 
 
-class Solution():
-    def two_sum(self, nums, target):
+class Solution:
+    def twoSum(self, nums, target):
         seen = {}
         for index, num in enumerate(nums):
             diff  = target - num
