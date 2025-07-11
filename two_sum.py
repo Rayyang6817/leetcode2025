@@ -12,6 +12,8 @@
 #     result = s.two_sum([2, 7, 11, 15], 9)
 #     print(result)  # ➜ 應該輸出 [0, 1]
 
+# 當然這也可以雙迴圈暴力破解 但就沒意義了 leetcode意義是在讓你用最有效的方式解決問題!!
+
 
 class Solution:
     def twoSum(self, nums, target):
