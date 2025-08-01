@@ -17,5 +17,5 @@ class Solution:
 test = Solution()
 # test_case = [3, 2, 3]
 test_case2 = [2, 2, 1, 1, 1, 2, 2]
-resutlt = test.majorityElement(test_case2)  # ➜ 應該輸出 3
+resutlt = test.majorityElement(test_case2)  
 print(resutlt)  # 輸出結果
