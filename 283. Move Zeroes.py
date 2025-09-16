@@ -24,7 +24,7 @@ class Solution:
             nums[i] = 0
 
 # 測試
-test = Solution()   
+test = Solution()      
 test_case = [0, 1, 0, 3, 12]
 test.moveZeroes(test_case)  
 print(test_case)    

@@ -22,5 +22,5 @@ class Solution:
             diff  = target - num
             if diff in seen:
                 return [seen[diff], index]
-            seen[num] = index 
+            seen[num] = index
             

@@ -51,3 +51,4 @@ if __name__ == "__main__":
 # key 是排序後的 tuple
 
 # value 是一個 list，裝入對應的異位詞群組
+
